@@ -13,7 +13,7 @@
   <packaging>jar</packaging>
   <name>com.io7m.minimal</name>
   <description>Minimal project</description>
-  <url>http://github.com/io7m/minimal</url>
+  <url>https://github.com/io7m/maven-minimal-20180413</url>
 
   <build>
     <pluginManagement>
